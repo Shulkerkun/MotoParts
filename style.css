@@ -18,9 +18,9 @@ header {
     }
 
 .logo{
-    position: relative;
+    position: absolute;
     top: 0;
-    left: 5%;
+    left: 2%;
     height: 120%;
 }
 
