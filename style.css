@@ -20,9 +20,9 @@ header {
 .logo{
     position: absolute;
     top: 0;
-      margin-left: 2%;
+    margin-left: 2%;
     left: 2%;
-    height: 120%;
+    height: 80%;
 }
 
 nav {
